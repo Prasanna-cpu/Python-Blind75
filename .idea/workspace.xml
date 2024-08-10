@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47bdc82a-54bb-40ca-b5cb-5be83a0ac105" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/BestTimeToBuyAndSellStock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/ContainerWithMaxArea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/ContainsDuplicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/MaximumProductSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/MaximumSumSubarray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/MinimumInRotatedSortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/ProductExceptSelf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/SearchInRotatedSortedArray.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/ThreeSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array/TwoSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bits/CountBits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bits/HammingWeight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bits/MissingNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bits/ReverseBits.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bits/Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/ClimbingStairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/CoinChange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/CombinationSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/GridUniquePaths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/HouseRobberII.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/JumpGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/LongestCommonSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/LongestIncreasingSubsequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/MaximumSumOfNonAdjacentElements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DynamicProgramming/WordBreak.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Heap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/InsertIntervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/MergeIntervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Intervals/NonOverlappingIntervals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/DetectCycle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/MergeKSortedArrays.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/MergeLinkedLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/RemoveNode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/ReverseLinkedList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/RotateImage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/SetMatrixZeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/SpiralOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Matrix/WordSearch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/GroupAnagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/IsPalindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/LongestPalindromicSubstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/LongestReplacement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/LongestSubstringWithoutRepeatingCharecters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/ValidAnagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String/ValidParanthesis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/BinaryTreeFromInOrderAndPostOrder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/InvertBinaryTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/IsSameTree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/KthSmallestElement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/LevelOrderTransform.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/MaxDepth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/MaximumPathSum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/Subtree.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tree/ValidBST.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2kNCLabVerpw6SDkQkJ99iIcgv2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.BestTimeToBuyAndSellStock.executor": "Run",
+    "Python.ClimbingStairs.executor": "Run",
+    "Python.ContainerWithMaxArea.executor": "Run",
+    "Python.ContainsDuplicate.executor": "Run",
+    "Python.CountBits.executor": "Run",
+    "Python.DetectCycle.executor": "Run",
+    "Python.GridUniquePaths.executor": "Run",
+    "Python.HeightOfBinaryTree.executor": "Run",
+    "Python.HouseRobberII.executor": "Run",
+    "Python.IsPalindrome.executor": "Run",
+    "Python.LongestIncreasingSubsequence.executor": "Run",
+    "Python.LongestPalindromicSubstring.executor": "Run",
+    "Python.LongestReplacement.executor": "Run",
+    "Python.LongestSubstringWithoutRepeatingCharecters.executor": "Run",
+    "Python.MaximumProductSubarray.executor": "Run",
+    "Python.MaximumSumOfNonAdjacentElements.executor": "Run",
+    "Python.MaximumSumSubarray.executor": "Run",
+    "Python.MergeKSortedArrays.executor": "Run",
+    "Python.MergeLinkedLists.executor": "Run",
+    "Python.MinimumInRotatedSortedArray.executor": "Run",
+    "Python.MissingNumber.executor": "Run",
+    "Python.ProductExceptSelf.executor": "Run",
+    "Python.RemoveNode.executor": "Run",
+    "Python.ReverseBits.executor": "Run",
+    "Python.ReverseLinkedList.executor": "Run",
+    "Python.RotateImage.executor": "Run",
+    "Python.SearchInRotatedSortedArray.executor": "Run",
+    "Python.SetMatrixZeros.executor": "Run",
+    "Python.SpiralOrder.executor": "Run",
+    "Python.Sum.executor": "Run",
+    "Python.TwoSum.executor": "Run",
+    "Python.ValidAnagram.executor": "Run",
+    "Python.WordBreak.executor": "Run",
+    "Python.WordSearch.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47bdc82a-54bb-40ca-b5cb-5be83a0ac105" name="Changes" comment="" />
+      <created>1723114594263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723114594263</updated>
+      <workItem from="1723114595108" duration="3349000" />
+      <workItem from="1723121851731" duration="7408000" />
+      <workItem from="1723173061083" duration="1093000" />
+      <workItem from="1723178691049" duration="4611000" />
+      <workItem from="1723191140240" duration="1314000" />
+      <workItem from="1723198184676" duration="3568000" />
+      <workItem from="1723208521070" duration="5896000" />
+      <workItem from="1723220064104" duration="1829000" />
+      <workItem from="1723253469129" duration="963000" />
+      <workItem from="1723257636337" duration="4025000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pythonProject$WordSearch.coverage" NAME="WordSearch Coverage Results" MODIFIED="1723180385471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matrix" />
+    <SUITE FILE_PATH="coverage/pythonProject$MissingNumber.coverage" NAME="MissingNumber Coverage Results" MODIFIED="1723136911412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bits" />
+    <SUITE FILE_PATH="coverage/pythonProject$Sum.coverage" NAME="Sum Coverage Results" MODIFIED="1723127660267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bits" />
+    <SUITE FILE_PATH="coverage/pythonProject$SearchInRotatedSortedArray.coverage" NAME="SearchInRotatedSortedArray Coverage Results" MODIFIED="1723126482532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$BestTimeToBuyAndSellStock.coverage" NAME="BestTimeToBuyAndSellStock Coverage Results" MODIFIED="1723116638961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$ClimbingStairs.coverage" NAME="ClimbingStairs Coverage Results" MODIFIED="1723220581988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicProgramming" />
+    <SUITE FILE_PATH="coverage/pythonProject$MaximumProductSubarray.coverage" NAME="MaximumProductSubarray Coverage Results" MODIFIED="1723122514998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$GridUniquePaths.coverage" NAME="GridUniquePaths Coverage Results" MODIFIED="1723258818337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicProgramming" />
+    <SUITE FILE_PATH="coverage/pythonProject$ContainsDuplicate.coverage" NAME="ContainsDuplicate Coverage Results" MODIFIED="1723116808603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$MergeKSortedArrays.coverage" NAME="MergeKSortedArrays Coverage Results" MODIFIED="1723192410879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedList" />
+    <SUITE FILE_PATH="coverage/pythonProject$CountBits.coverage" NAME="CountBits Coverage Results" MODIFIED="1723136614835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bits" />
+    <SUITE FILE_PATH="coverage/pythonProject$RemoveNode.coverage" NAME="RemoveNode Coverage Results" MODIFIED="1723183783827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedList" />
+    <SUITE FILE_PATH="coverage/pythonProject$ValidAnagram.coverage" NAME="ValidAnagram Coverage Results" MODIFIED="1723213700382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/pythonProject$SetMatrixZeros.coverage" NAME="SetMatrixZeros Coverage Results" MODIFIED="1723137776341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matrix" />
+    <SUITE FILE_PATH="coverage/pythonProject$MaximumSumSubarray.coverage" NAME="MaximumSumSubarray Coverage Results" MODIFIED="1723118033917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$HeightOfBinaryTree.coverage" NAME="HeightOfBinaryTree Coverage Results" MODIFIED="1723191604620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tree" />
+    <SUITE FILE_PATH="coverage/pythonProject$ProductExceptSelf.coverage" NAME="ProductExceptSelf Coverage Results" MODIFIED="1723117686699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$DetectCycle.coverage" NAME="DetectCycle Coverage Results" MODIFIED="1723182408225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedList" />
+    <SUITE FILE_PATH="coverage/pythonProject$WordBreak.coverage" NAME="WordBreak Coverage Results" MODIFIED="1723254077652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicProgramming" />
+    <SUITE FILE_PATH="coverage/pythonProject$LongestReplacement.coverage" NAME="LongestReplacement Coverage Results" MODIFIED="1723213289166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/pythonProject$LongestIncreasingSubsequence.coverage" NAME="LongestIncreasingSubsequence Coverage Results" MODIFIED="1723221210370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicProgramming" />
+    <SUITE FILE_PATH="coverage/pythonProject$SpiralOrder.coverage" NAME="SpiralOrder Coverage Results" MODIFIED="1723138641879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matrix" />
+    <SUITE FILE_PATH="coverage/pythonProject$ReverseBits.coverage" NAME="ReverseBits Coverage Results" MODIFIED="1723137197053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Bits" />
+    <SUITE FILE_PATH="coverage/pythonProject$ContainerWithMaxArea.coverage" NAME="ContainerWithMaxArea Coverage Results" MODIFIED="1723127364748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$RotateImage.coverage" NAME="RotateImage Coverage Results" MODIFIED="1723173504334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Matrix" />
+    <SUITE FILE_PATH="coverage/pythonProject$LongestSubstringWithoutRepeatingCharecters.coverage" NAME="LongestSubstringWithoutRepeatingCharecters Coverage Results" MODIFIED="1723212682794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/pythonProject$TwoSum.coverage" NAME="TwoSum Coverage Results" MODIFIED="1723115910159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$MergeLinkedLists.coverage" NAME="MergeLinkedLists Coverage Results" MODIFIED="1723183190059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedList" />
+    <SUITE FILE_PATH="coverage/pythonProject$MaximumSumOfNonAdjacentElements.coverage" NAME="MaximumSumOfNonAdjacentElements Coverage Results" MODIFIED="1723258025726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicProgramming" />
+    <SUITE FILE_PATH="coverage/pythonProject$HouseRobberII.coverage" NAME="HouseRobberII Coverage Results" MODIFIED="1723258470716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DynamicProgramming" />
+    <SUITE FILE_PATH="coverage/pythonProject$IsPalindrome.coverage" NAME="IsPalindrome Coverage Results" MODIFIED="1723214889517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/pythonProject$MinimumInRotatedSortedArray.coverage" NAME="MinimumInRotatedSortedArray Coverage Results" MODIFIED="1723125630339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Array" />
+    <SUITE FILE_PATH="coverage/pythonProject$LongestPalindromicSubstring.coverage" NAME="LongestPalindromicSubstring Coverage Results" MODIFIED="1723215288131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/String" />
+    <SUITE FILE_PATH="coverage/pythonProject$ReverseLinkedList.coverage" NAME="ReverseLinkedList Coverage Results" MODIFIED="1723181888250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LinkedList" />
+  </component>
+</project>
